@@ -21,9 +21,9 @@ class Complex{
 
         void display(){
             if(img>=0)
-                cout<<"The product is "<<real<<" + "<<img<<endl;
+                cout<<"The product is "<<real<<" + "<<img<<"i"<<endl;
             else
-                cout<<"The product is "<<real<<" - "<<-img<<endl;
+                cout<<"The product is "<<real<<" - "<<-img<<"i"<<endl;
         }
 };
 
