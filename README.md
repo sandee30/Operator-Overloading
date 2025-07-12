@@ -14,7 +14,7 @@ Operator overloading allows you to define custom behaviors for C++ operators (`+
 
 ### ✅ Solved Questions
 
-### 1. Complex Number Addition using `operator+`.
-### 2. Complex Number Multiplication using `operator*`.
+### 1. Complex Number Addition using `operator+`  (p1.cpp).
+### 2. Complex Number Multiplication using `operator*`  (p2.cpp).
 
 
